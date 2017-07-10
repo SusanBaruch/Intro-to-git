@@ -12,6 +12,11 @@
     git add
     git status
     
-    git committ -m "description of action in present tense"
+    git commit (filename) -m "description of action in present tense"
     
     git log
+    (quit "Q")
+    
+    git add -A  (adds all files in directory)
+    
+    
