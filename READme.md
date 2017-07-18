@@ -17,6 +17,14 @@
     git log
     (quit "Q")
     
-    git add -A  (adds all files in directory)
+    git add -A  (adds all files in directory, including hidden)
+    hidden files begin with "."
+    
+    remove files
+        git reset HEAD (file)
+    
+    ignore files
+    
+    
     
     
